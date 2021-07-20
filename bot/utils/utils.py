@@ -21,7 +21,7 @@ class ProcessTypes:
 
 
 class Utilities:
-    @staticmethod
+    @tgbotschat
     def is_valid_file(msg):
         if not msg.media:
             return False
