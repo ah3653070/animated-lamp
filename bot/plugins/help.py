@@ -5,7 +5,7 @@ from bot.config import Config
 
 
 HELP_TEXT = """
-Hi {mention}. Welcome to Screenshot Generator Bot. You can use me to generate:
+Hi {mention}. Welcome to Screenshot Generator Bot & support chat = @tgbotschat . You can use me to generate:
 
     1. Screenshots.
     2. Sample Video.
